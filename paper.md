@@ -1,3 +1,4 @@
+
 # Title
 Aircraft measurements and simulations of biomass burning aerosols over West Africa
 
@@ -30,3 +31,7 @@ mechanism for these particles.
 
 # Figures
 Figures go in their own section in a draft paper.
+
+# Conclusions
+We have made fantastic insight into the BBOA aging process.
+Nonetheless, questions remain unanswered, so we should get some more funding.
