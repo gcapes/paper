@@ -33,6 +33,8 @@ for these particles.
 # Figures
 Figures go in their own section in a draft paper.
 
+Figure 1 goes here.
+
 # Conclusions
 We have made fantastic insight in to the BBOA aging process.
 Nonetheless, questions remain unanswered, so we should get more funding.
