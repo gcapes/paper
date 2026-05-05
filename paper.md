@@ -16,3 +16,7 @@ made.
 
 A large uncertainty in modelling BBOA is the extent to which
 measurements in the literature can be applied at a regional scale.
+
+# Simulations
+We simulate the evolution of particle sizes as they are transported
+away from the source region.
