@@ -3,6 +3,7 @@ Aircraft measurements and simulations of biomass burning aerosols over West Afri
 
 # Author
 John Smith, University of Elsewhere
+
 Gerard Capes, University of Manchester
 
 # Introduction
